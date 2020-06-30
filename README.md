@@ -4,7 +4,7 @@ Code coverage: / total lines of executable code  <a href='https://coveralls.io/g
 # How To Run Django Test
 * Testing is done in django dev environment
 * clone repository
-* navigate to root directory in django dev environment
+* navigate to root directory (airlines)
 * run 'python manage.py test' to ran all tests
 
 # How To Run Access and Run Travis CI pipeline
