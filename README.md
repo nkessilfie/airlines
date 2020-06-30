@@ -10,7 +10,7 @@ Code coverage: tests lines of code / total lines of executable code  <a href='ht
 
 # How To Run Code
 * In django dev environment, run 'python manage.py runserver' to start local server
-* copy the listening port into your browser
+* copy the listening port e.g(http://127.0.0.1:8000) into your browser
 
 
 # How To Run Access and Run Travis CI pipeline
