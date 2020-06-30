@@ -8,7 +8,7 @@ Code coverage: / total lines of executable code  <a href='https://coveralls.io/g
 * run 'python manage.py test' to ran all tests
 
 # How To Run Access and Run Travis CI pipeline
-* Fork repository
+* Fork this repository (public repository)
 * Activate github repo(nkessilfie/airline) into your Travis CI account
 * Click on build to run the CI pipeline
 
