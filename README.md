@@ -9,8 +9,8 @@ Code coverage: / total lines of executable code  <a href='https://coveralls.io/g
 
 # How To Run Access and Run Travis CI pipeline
 * Fork repository
-* 
-*
+* Activate github repo(nkessilfie/airline) into your Travis CI account
+* Click on build to run test
 
 
 
